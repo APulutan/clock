@@ -1,0 +1,23 @@
+html {
+    background-color:  rgb(236, 101, 52);
+}
+
+.clock {
+    margin: auto;
+    background: rgba(162, 55, 16, 0.589);
+    width: 200px;
+    padding: 10px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.clock-time,
+.clock-ampm {
+    font-family: 'Mukta', sans-serif;
+    font-size: 30px;
+    color: rgb(231, 243, 251)
+}
+
+.clock-time {
+    font-size: 45px;
+}
